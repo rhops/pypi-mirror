@@ -1,7 +1,7 @@
 ---
 galaxy_info:
   author: Jeff Li
-  description: Configure PyPI mirror
+  description: Configure PyPI mirror for pip and easy_install
   license: MIT
   min_ansible_version: 2.3
   platforms:

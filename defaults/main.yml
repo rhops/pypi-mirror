@@ -1,0 +1,6 @@
+---
+pypi_index_url: https://pypi.python.org/simple
+pypi_search_index: https://pypi.python.org/pypi
+pypi_timeout: 6000
+pypi_trusted_host: ""
+pypi_users: "{{ ansible_ssh_user }}"
